@@ -1,0 +1,5 @@
+module ndi [system] {
+  header "include/Processing.NDI.Lib.h"
+  link "ndi"
+  export *
+}
